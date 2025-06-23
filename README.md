@@ -1,8 +1,25 @@
 # Telegram Flight Hunter ☀️✈️
 
-A simple Telegram bot that periodically searches the Amadeus API for the cheapest round-trip flights  
-from Berlin (BER) and Istanbul (IST) to a set of Balkan destinations, and notifies you on Telegram when  
-a deal under your price threshold is found.
+<p align="center">
+  <a href="https://github.com/turancannb02/telegram-flight-hunter">
+    <img src="https://img.shields.io/github/stars/turancannb02/telegram-flight-hunter?style=plastic&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/turancannb02/telegram-flight-hunter/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/turancannb02/telegram-flight-hunter?style=plastic&logo=open-source-initiative&logoColor=white" alt="License: MIT">
+  </a>
+  <img src="https://img.shields.io/badge/Flights-Active-brightgreen?style=plastic&logo=telegram&logoColor=white" alt="Flight Bot Status">
+  <img src="https://img.shields.io/badge/API-Sandbox%20Mode-orange?style=plastic&logo=codewars&logoColor=white" alt="API Sandbox Mode">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=plastic&logo=python&logoColor=white" alt="Python Version">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Made with Python">
+  <a href="https://github.com/turancannb02/telegram-flight-hunter#install">
+    <img src="https://img.shields.io/badge/Install-with%20pip-blue?style=plastic&logo=pypi&logoColor=white" alt="Install with pip">
+  </a>
+</p>
+
+A simple Telegram bot that checks for **cheap round-trip flights** from Berlin and Istanbul to Balkan destinations using Amadeus API (sandbox mode), and notifies you via Telegram.
 
 ---
 
